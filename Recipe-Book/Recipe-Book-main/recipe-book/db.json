@@ -1,0 +1,295 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Spaghetti Bolognese",
+      "ingredients": [
+        "200g spaghetti",
+        "100g minced beef",
+        "1 onion",
+        "2 garlic cloves",
+        "400g canned tomatoes",
+        "Salt",
+        "Pepper",
+        "Olive oil"
+      ],
+      "instructions": "Cook spaghetti. Sauté onions and garlic, brown the beef, add tomatoes, simmer 20 mins, combine.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Pasta"
+    },
+    {
+      "id": 2,
+      "title": "Chicken Curry",
+      "ingredients": [
+        "500g chicken",
+        "2 onions",
+        "3 garlic cloves",
+        "1 tbsp curry powder",
+        "400ml coconut milk",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "Cook onions and garlic, add curry powder and chicken, pour in coconut milk, simmer 25 mins.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Curry"
+    },
+    {
+      "id": 3,
+      "title": "Pancakes",
+      "ingredients": [
+        "1 cup flour",
+        "1 egg",
+        "1 cup milk",
+        "1 tbsp sugar",
+        "Pinch of salt",
+        "Butter"
+      ],
+      "instructions": "Mix ingredients into batter. Cook in buttered pan until golden on both sides.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Breakfast"
+    },
+    {
+      "id": 4,
+      "title": "Caesar Salad",
+      "ingredients": [
+        "Romaine lettuce",
+        "Croutons",
+        "Parmesan",
+        "Caesar dressing",
+        "Chicken breast (optional)"
+      ],
+      "instructions": "Toss lettuce with dressing, add croutons, parmesan, and grilled chicken.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Salad"
+    },
+    {
+      "id": 5,
+      "title": "Grilled Cheese Sandwich",
+      "ingredients": [
+        "2 bread slices",
+        "Butter",
+        "Cheddar cheese"
+      ],
+      "instructions": "Butter bread, insert cheese, grill until crispy and golden.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Snack"
+    },
+    {
+      "id": 6,
+      "title": "Tomato Soup",
+      "ingredients": [
+        "400g tomatoes",
+        "1 onion",
+        "2 garlic cloves",
+        "Basil",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "Cook all, blend, and simmer with basil.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Soup"
+    },
+    {
+      "id": 7,
+      "title": "Beef Tacos",
+      "ingredients": [
+        "Taco shells",
+        "Minced beef",
+        "Lettuce",
+        "Cheese",
+        "Salsa"
+      ],
+      "instructions": "Cook beef with spices, assemble with toppings in shells.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Mexican"
+    },
+    {
+      "id": 8,
+      "title": "Vegetable Stir Fry",
+      "ingredients": [
+        "Mixed vegetables",
+        "Soy sauce",
+        "Garlic",
+        "Ginger",
+        "Oil"
+      ],
+      "instructions": "Stir-fry vegetables with garlic, ginger, and soy sauce.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Vegetarian"
+    },
+    {
+      "id": 9,
+      "title": "Fried Rice",
+      "ingredients": [
+        "Rice",
+        "Eggs",
+        "Vegetables",
+        "Soy sauce",
+        "Sesame oil"
+      ],
+      "instructions": "Cook rice, scramble eggs, stir-fry all together with soy sauce.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Asian"
+    },
+    {
+      "id": 10,
+      "title": "Chocolate Cake",
+      "ingredients": [
+        "Flour",
+        "Cocoa",
+        "Sugar",
+        "Eggs",
+        "Butter",
+        "Baking powder"
+      ],
+      "instructions": "Mix ingredients, bake at 180°C for 30-35 mins.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Dessert"
+    },
+    {
+      "id": 11,
+      "title": "Avocado Toast",
+      "ingredients": [
+        "Bread",
+        "Avocado",
+        "Salt",
+        "Pepper",
+        "Lemon juice"
+      ],
+      "instructions": "Mash avocado, season, spread on toasted bread.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Breakfast"
+    },
+    {
+      "id": 12,
+      "title": "Mac and Cheese",
+      "ingredients": [
+        "Macaroni",
+        "Milk",
+        "Butter",
+        "Cheddar cheese",
+        "Flour"
+      ],
+      "instructions": "Cook pasta, make cheese sauce with roux, combine.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Pasta"
+    },
+    {
+      "id": 13,
+      "title": "Greek Salad",
+      "ingredients": [
+        "Tomatoes",
+        "Cucumber",
+        "Feta cheese",
+        "Olives",
+        "Red onion",
+        "Olive oil"
+      ],
+      "instructions": "Chop ingredients, toss with olive oil.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Salad"
+    },
+    {
+      "id": 14,
+      "title": "Omelette",
+      "ingredients": [
+        "Eggs",
+        "Milk",
+        "Salt",
+        "Pepper",
+        "Onion",
+        "Bell pepper"
+      ],
+      "instructions": "Beat eggs with milk and seasonings, cook in pan with veggies.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Breakfast"
+    },
+    {
+      "id": 15,
+      "title": "BBQ Chicken Wings",
+      "ingredients": [
+        "Chicken wings",
+        "BBQ sauce",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": "Marinate wings in BBQ sauce, bake or grill until cooked.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Snack"
+    },
+    {
+      "id": 16,
+      "title": "Sushi Rolls",
+      "ingredients": [
+        "Sushi rice",
+        "Nori sheets",
+        "Cucumber",
+        "Avocado",
+        "Crab stick"
+      ],
+      "instructions": "Lay rice on nori, add fillings, roll and slice.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Japanese"
+    },
+    {
+      "id": 17,
+      "title": "Lemonade",
+      "ingredients": [
+        "Lemons",
+        "Sugar",
+        "Water",
+        "Mint"
+      ],
+      "instructions": "Juice lemons, mix with sugar and water, add mint.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Drink"
+    },
+    {
+      "id": 18,
+      "title": "French Toast",
+      "ingredients": [
+        "Bread",
+        "Eggs",
+        "Milk",
+        "Sugar",
+        "Cinnamon"
+      ],
+      "instructions": "Dip bread in egg mixture, cook on pan until golden.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Breakfast"
+    },
+    {
+      "id": 19,
+      "title": "Garlic Bread",
+      "ingredients": [
+        "Bread",
+        "Butter",
+        "Garlic",
+        "Parsley"
+      ],
+      "instructions": "Mix garlic with butter, spread on bread, bake until golden.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Snack"
+    },
+    {
+      "id": 20,
+      "title": "Banana Smoothie",
+      "ingredients": [
+        "Banana",
+        "Milk",
+        "Honey",
+        "Ice"
+      ],
+      "instructions": "Blend all until smooth and creamy.",
+      "image": "https://via.placeholder.com/150",
+      "category": "Drink"
+    },
+    {
+      "id": "949e",
+      "title": "bhaji  pav",
+      "ingredients": "bhaji,pav",
+      "category": "Snack",
+      "date": "2025-06-21T08:40:36.768Z"
+    }
+  ]
+}
